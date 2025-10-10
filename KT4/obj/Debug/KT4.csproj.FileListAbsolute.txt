@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\C#_Homework\KT4\bin\Debug\KT4.exe.config
+C:\Users\Honor\source\repos\C#_Homework\KT4\bin\Debug\KT4.exe
+C:\Users\Honor\source\repos\C#_Homework\KT4\bin\Debug\KT4.pdb
+C:\Users\Honor\source\repos\C#_Homework\KT4\obj\Debug\KT4.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\C#_Homework\KT4\obj\Debug\KT4.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\C#_Homework\KT4\obj\Debug\KT4.exe
+C:\Users\Honor\source\repos\C#_Homework\KT4\obj\Debug\KT4.pdb
