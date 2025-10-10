@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\bin\Debug\KT-2_Class_Book.exe.config
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\bin\Debug\KT-2_Class_Book.exe
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\bin\Debug\KT-2_Class_Book.pdb
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\obj\Debug\KT-2_Class_Book.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\obj\Debug\KT-2_Class_Book.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\obj\Debug\KT-2_Class_Book.exe
+C:\Users\Honor\source\repos\C#_Homework\KT-2_Class_Book\obj\Debug\KT-2_Class_Book.pdb
