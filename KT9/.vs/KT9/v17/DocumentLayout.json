@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{69B90B48-35E2-4210-9C26-5DB69898023E}|KT9.csproj|c:\\users\\honor\\source\\repos\\c#_homework\\kt9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B90B48-35E2-4210-9C26-5DB69898023E}|KT9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KT9||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B90B48-35E2-4210-9C26-5DB69898023E}|KT9.csproj|c:\\users\\honor\\source\\repos\\c#_homework\\kt9\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KT9",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\C#_Homework\\KT9\\KT9.csproj",
+              "RelativeDocumentMoniker": "KT9.csproj",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\C#_Homework\\KT9\\KT9.csproj",
+              "RelativeToolTip": "KT9.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T07:04:16.688Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +42,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Honor\\source\\repos\\C#_Homework\\KT9\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T06:53:03.642Z",
               "EditorCaption": ""
