@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\C#_Homework\KT6\bin\Debug\KT6.exe.config
+C:\Users\Honor\source\repos\C#_Homework\KT6\bin\Debug\KT6.exe
+C:\Users\Honor\source\repos\C#_Homework\KT6\bin\Debug\KT6.pdb
+C:\Users\Honor\source\repos\C#_Homework\KT6\obj\Debug\KT6.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\C#_Homework\KT6\obj\Debug\KT6.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\C#_Homework\KT6\obj\Debug\KT6.exe
+C:\Users\Honor\source\repos\C#_Homework\KT6\obj\Debug\KT6.pdb

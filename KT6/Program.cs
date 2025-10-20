@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace KT6 {
     internal class Program {
         static void Main(string[] args)
-        {
-        }
+        { }
     }
 }
+            
