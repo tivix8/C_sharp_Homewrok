@@ -1,0 +1,7 @@
+C:\Users\Honor\source\repos\C#_Homework\KT1\obj\Debug\KT1.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\C#_Homework\KT1\obj\Debug\KT1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\C#_Homework\KT1\bin\Debug\KT1.exe.config
+C:\Users\Honor\source\repos\C#_Homework\KT1\bin\Debug\KT1.exe
+C:\Users\Honor\source\repos\C#_Homework\KT1\bin\Debug\KT1.pdb
+C:\Users\Honor\source\repos\C#_Homework\KT1\obj\Debug\KT1.exe
+C:\Users\Honor\source\repos\C#_Homework\KT1\obj\Debug\KT1.pdb
