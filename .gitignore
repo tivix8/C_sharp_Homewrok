@@ -1,0 +1,28 @@
+# Visual Studio folders
+.vs/
+.vscode/
+.idea/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Logs and caches
+*.log
+*.cache
+*.tmp
